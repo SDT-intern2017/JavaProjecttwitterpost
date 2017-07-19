@@ -8,10 +8,10 @@ import twitter4j.auth.AccessToken;
 public class JavaTweet {
 	
 	
-	static String consumerKeyStr = "rPvmccEBSVYqoAQihNjyAl1na";
-	static String consumerSecretStr = "rIIk9EZc4t5qBdtOtJV5h7ZEMw1xnjgwuSkXqB3pTObee3mf2i";
-	static String accessTokenStr = "304334619-TfXPAGmQcPGEuvfDnfOzBXGKmCDnFm3tHTQLDsH7";
-	static String accessTokenSecretStr = "1nQIIq5XDaCdjsSe9HDZNuBEnnM0yQ8CP8BSSCleUadI8";
+private	static String consumerKeyStr = "rPvmccEBSVYqoAQihNjyAl1na";
+private	static String consumerSecretStr = "rIIk9EZc4t5qBdtOtJV5h7ZEMw1xnjgwuSkXqB3pTObee3mf2i";
+private	static String accessTokenStr = "304334619-TfXPAGmQcPGEuvfDnfOzBXGKmCDnFm3tHTQLDsH7";
+private	static String accessTokenSecretStr = "1nQIIq5XDaCdjsSe9HDZNuBEnnM0yQ8CP8BSSCleUadI8";
 
 	public static void main(String[] args) {
 
